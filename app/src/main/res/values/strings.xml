@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">page256 App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_notifications">Notifications</string>
+    <string name="menu_privacy">Privacy</string>
+    <string name="menu_chats">Chats</string>
+    <string name="menu_share">Share</string>
+    <string name="hello_share">Hello Share Fragment</string>
+    <string name="hello_profile">Hello profile Fragment</string>
+    <string name="hello_chats">Hello Chats Fragment</string>
+    <string name="hello_privacy">Hello Privacy Fragment</string>
+    <string name="hello_slideshow">Hello Slideshow Fragment</string>
+    <string name="hello_notifications">Hello Notifications Fragment</string>
+    <string name="hello_home">Hello Home Fragment</string>
+    <string name="hello_Gallery">Hello Gallery Fragment</string>
+    <string name="hello_settings">Hello Settings Fragment</string>
+    <string name="hello_contacts">Hello Contacts Fragment</string>
+
+
+
+</resources>
